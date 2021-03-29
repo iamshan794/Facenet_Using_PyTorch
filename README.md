@@ -1,2 +1,2 @@
 # Facenet_Using_PyTorch
-Use custom_test.py to test the model
+Use test_model.py to test the model
